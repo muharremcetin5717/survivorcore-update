@@ -1,10 +1,7 @@
 {
-  "minVersion": "5",
-  "latestVersion": "5",
-  "title": {
-    "en": "Update Available",
-    "tr": "Güncelleme Var"
-  },
+  "minVersion": "1.0.4",
+  "latestVersion": "1.0.4",
+  "title": { "en": "Update Available", "tr": "Güncelleme Var" },
   "softMsg": {
     "en": "A new version is available. Update for the best experience.",
     "tr": "Yeni sürüm çıktı. En iyi deneyim için güncelle."
